@@ -216,21 +216,6 @@ AdventureGame/
 └── out/                          # Derlenmiş dosyalar
 ```
 
-### Kullanılan Design Patterns
-
-- **Factory Pattern**: Karakter, lokasyon ve düşman oluşturma
-- **Singleton Pattern**: InputHandler için tek instance
-- **Strategy Pattern**: Savaş ve iyileşme mekanikleri
-- **Template Method Pattern**: Lokasyon davranışları
-
-### SOLID Prensipleri
-
-- ✅ **Single Responsibility**: Her sınıf tek bir sorumluluğa sahip
-- ✅ **Open/Closed**: Yeni özellikler mevcut kodu değiştirmeden eklenebilir
-- ✅ **Liskov Substitution**: Alt sınıflar üst sınıfların yerine kullanılabilir
-- ✅ **Interface Segregation**: Küçük, odaklanmış arayüzler
-- ✅ **Dependency Inversion**: Yüksek seviye modüller soyutlamalara bağımlı
-
 ## 🎨 Ekran Görüntüleri
 
 ### Karakter Seçimi
@@ -277,28 +262,6 @@ Zombi'nin kalan canı: 3
 Zombi size 2 hasar vurdu!
 Sağlığınız: 19
 ```
-
-## 📝 Geliştirme Süreci
-
-Bu proje, aşağıdaki ödevler kapsamında geliştirilmiştir:
-
-- **ÖDEV 1**: Ödül sistemi ve kazanma koşulu
-- **ÖDEV 2**: Factory Pattern ve SOLID prensipleri uygulaması
-- **ÖDEV 3**: Maden lokasyonu ve loot sistemi
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen şu adımları takip edin:
-
-1. Projeyi fork'layın
-2. Feature branch oluşturun (`git checkout -b feature/YeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/YeniOzellik`)
-5. Pull Request oluşturun
-
-## 📜 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
 
 ## 👨‍💻 Geliştirici
 
