@@ -111,7 +111,7 @@ Oyunu kazanmak için:
 
 ```bash
 # Projeyi klonla
-git clone https://github.com/KULLANICI_ADINIZ/AdventureGame.git
+git clone https://github.com/sezgineken/AdventureGame.git
 cd AdventureGame
 
 # Derle
@@ -125,7 +125,7 @@ java -cp out/production/AdventureGame Main
 
 ```bash
 # Projeyi klonla
-git clone https://github.com/KULLANICI_ADINIZ/AdventureGame.git
+git clone https://github.com/sezgineken/AdventureGame.git
 cd AdventureGame
 
 # Derle
@@ -304,7 +304,7 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 **Sezgin Eken**
 
-- GitHub: [@KULLANICI_ADINIZ](https://github.com/KULLANICI_ADINIZ)
+- GitHub: [@sezgineken](https://github.com/sezgineken)
 
 ---
 
